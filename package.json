@@ -1,0 +1,15 @@
+{
+  "name": "cli-interactive-nodejs-2024",
+  "version": "1.0.0",
+  "description": "https://nodejs.org/en/download https://nodejs.org/en/download/package-manager#centos-fedora-and-red-hat-enterprise-linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}

@@ -1,5 +1,3 @@
-# CLI-Interactive-Nodejs-2024
-
 **https://nodejs.org/en/download**
 
 **https://nodejs.org/en/download/package-manager#centos-fedora-and-red-hat-enterprise-linux**
